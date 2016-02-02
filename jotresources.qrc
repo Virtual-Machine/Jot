@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Jot.ico</file>
+        <file>Jot.icns</file>
+    </qresource>
+</RCC>
