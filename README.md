@@ -1,3 +1,5 @@
+###This project is not in active development, it may not even be in a working state.
+
 Jot
 ===
 
